@@ -18,6 +18,10 @@ export const metadata: Metadata = {
     template: `%s | ${COMPANY.name}`,
   },
   description: COMPANY.description,
+  icons: {
+    icon: "/H_logohidrorex.svg",
+    shortcut: "/H_logohidrorex.svg",
+  },
   keywords: [
     "circuitos hidráulicos",
     "cilindros hidráulicos",
